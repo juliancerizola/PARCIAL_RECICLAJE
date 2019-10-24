@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1571943595 source:c:\users\sa-julian\desktop\parcial_reciclaje\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"pedido.h"
+
+1571944590 c:\users\sa-julian\desktop\parcial_reciclaje\cliente.h
+	"utn.h"
+
+1571893663 c:\users\sa-julian\desktop\parcial_reciclaje\utn.h
+
+1571944608 c:\users\sa-julian\desktop\parcial_reciclaje\pedido.h
+	"utn.h"
+
+1571948148 source:c:\users\sa-julian\desktop\parcial_reciclaje\main.c
+	"informes.h"
+
+1571948143 c:\users\sa-julian\desktop\parcial_reciclaje\informes.h
+	"cliente.h"
+	"pedido.h"
+
+1571947609 source:c:\users\sa-julian\desktop\parcial_reciclaje\pedido.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pedido.h"
+
+1571893663 source:c:\users\sa-julian\desktop\parcial_reciclaje\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1571948144 source:c:\users\sa-julian\desktop\parcial_reciclaje\informes.c
+	"informes.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
